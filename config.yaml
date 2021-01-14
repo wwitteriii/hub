@@ -31,19 +31,19 @@ categories:
     tags: [test]
 
 catalogs:
-  - name: tekton
-    org: tektoncd
+  - name: test
+    org: wwitter
     type: community
-    url: https://github.com/tektoncd/catalog
+    url: https://github.ford.com/WWITTER/tkn-catalog
     revision: master
 
 scopes:
   - name: agent:create
-    users: [wwitteriii]
+    users: [wwitter]
   - name: catalog:refresh
-    users: [wwitteriii]
+    users: [wwitter]
   - name: config:refresh
-    users: [wwitteriii]
+    users: [wwitter]
 
 default:
   scopes:
