@@ -39,11 +39,11 @@ catalogs:
 
 scopes:
   - name: agent:create
-    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester, wwitteriii]
+    users: [wwitteriii]
   - name: catalog:refresh
-    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester, wwitteriii]
+    users: [wwitteriii]
   - name: config:refresh
-    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester, wwitteriii]
+    users: [wwitteriii]
 
 default:
   scopes:
