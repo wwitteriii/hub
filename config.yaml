@@ -32,18 +32,18 @@ categories:
 
 catalogs:
   - name: test
-    org: wwitter
+    org: wwitteriii
     type: community
     url: https://github.ford.com/WWITTER/tkn-catalog
     revision: master
 
 scopes:
   - name: agent:create
-    users: [wwitter]
+    users: [wwitteriii]
   - name: catalog:refresh
-    users: [wwitter]
+    users: [wwitteriii]
   - name: config:refresh
-    users: [wwitter]
+    users: [wwitteriii]
 
 default:
   scopes:
